@@ -2,3 +2,7 @@
 **/*.swp
 .venv
 logs/**
+logs/
+logs/*
+
+**/__pycache__
